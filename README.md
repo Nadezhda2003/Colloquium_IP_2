@@ -1,7 +1,7 @@
 # Colloquium_IP_2
 Template Method
 
-\\Implement the abstract class "Network" and the inherited classes "IRunner", "Edufpmi".\\
+Implement the abstract class "Network" and the inherited classes "IRunner", "Edufpmi".
 The logIn, logOut, sendData functions for each class and post for the NetWork class.
 logIn displays the message: "Checking user's parameters
 Name: {username}
